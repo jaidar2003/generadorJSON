@@ -1,0 +1,1302 @@
+[
+    {
+        "movie_name": "The Crimson Tide",
+        "actors": [
+            "Morgan Freeman",
+            "Chris Hemsworth",
+            "Brad Pitt"
+        ],
+        "genre": "Comedy",
+        "director": "Clint Eastwood",
+        "imdb_rating": 8.3,
+        "movie_length": "116 minutes",
+        "description": "consectetur adipiscing Lorem dolor elit"
+    },
+    {
+        "movie_name": "Echoes of War",
+        "actors": [
+            "Hugh Jackman",
+            "Denzel Washington",
+            "Brad Pitt"
+        ],
+        "genre": "Science Fiction",
+        "director": "Alfred Hitchcock",
+        "imdb_rating": 9.2,
+        "movie_length": "157 minutes",
+        "description": "ipsum elit sit dolor adipiscing"
+    },
+    {
+        "movie_name": "Ghosts of the Past",
+        "actors": [
+            "Brad Pitt",
+            "Jennifer Lawrence",
+            "Morgan Freeman"
+        ],
+        "genre": "Comedy",
+        "director": "Denis Villeneuve",
+        "imdb_rating": 6.0,
+        "movie_length": "146 minutes",
+        "description": "sit Lorem adipiscing amet ipsum"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Chris Pratt",
+            "Denzel Washington",
+            "Jennifer Lawrence"
+        ],
+        "genre": "Science Fiction",
+        "director": "Wes Anderson",
+        "imdb_rating": 8.1,
+        "movie_length": "168 minutes",
+        "description": "adipiscing amet Lorem consectetur ipsum"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Scarlett Johansson",
+            "Mark Ruffalo",
+            "Gal Gadot"
+        ],
+        "genre": "Science Fiction",
+        "director": "Steven Spielberg",
+        "imdb_rating": 8.0,
+        "movie_length": "113 minutes",
+        "description": "ipsum sit adipiscing dolor elit"
+    },
+    {
+        "movie_name": "A New Dawn",
+        "actors": [
+            "Mark Ruffalo",
+            "Natalie Portman",
+            "Keanu Reeves"
+        ],
+        "genre": "Thriller",
+        "director": "Peter Jackson",
+        "imdb_rating": 5.2,
+        "movie_length": "141 minutes",
+        "description": "elit Lorem adipiscing amet ipsum"
+    },
+    {
+        "movie_name": "The Crimson Tide",
+        "actors": [
+            "Natalie Portman",
+            "Brad Pitt",
+            "Tom Hanks"
+        ],
+        "genre": "Fantasy",
+        "director": "Steven Spielberg",
+        "imdb_rating": 6.4,
+        "movie_length": "96 minutes",
+        "description": "ipsum Lorem adipiscing sit consectetur"
+    },
+    {
+        "movie_name": "Echoes of Time",
+        "actors": [
+            "Jennifer Lawrence",
+            "Anne Hathaway",
+            "Denzel Washington"
+        ],
+        "genre": "Action",
+        "director": "Quentin Tarantino",
+        "imdb_rating": 7.2,
+        "movie_length": "112 minutes",
+        "description": "adipiscing ipsum elit sit dolor"
+    },
+    {
+        "movie_name": "Beneath the Stars",
+        "actors": [
+            "Gal Gadot",
+            "Ryan Gosling",
+            "Tom Hanks"
+        ],
+        "genre": "Action",
+        "director": "David Fincher",
+        "imdb_rating": 8.8,
+        "movie_length": "104 minutes",
+        "description": "ipsum adipiscing sit elit consectetur"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Ryan Gosling",
+            "Hugh Jackman",
+            "Chris Pratt"
+        ],
+        "genre": "Thriller",
+        "director": "Tim Burton",
+        "imdb_rating": 7.6,
+        "movie_length": "109 minutes",
+        "description": "sit amet adipiscing ipsum elit"
+    },
+    {
+        "movie_name": "Edge of Reality",
+        "actors": [
+            "Scarlett Johansson",
+            "Johnny Depp",
+            "Leonardo DiCaprio"
+        ],
+        "genre": "Drama",
+        "director": "Peter Jackson",
+        "imdb_rating": 5.1,
+        "movie_length": "141 minutes",
+        "description": "amet elit sit Lorem ipsum"
+    },
+    {
+        "movie_name": "The Hidden Path",
+        "actors": [
+            "Denzel Washington",
+            "Natalie Portman",
+            "Anne Hathaway"
+        ],
+        "genre": "Science Fiction",
+        "director": "David Fincher",
+        "imdb_rating": 5.9,
+        "movie_length": "92 minutes",
+        "description": "ipsum sit amet elit adipiscing"
+    },
+    {
+        "movie_name": "A New Dawn",
+        "actors": [
+            "Natalie Portman",
+            "Ryan Gosling",
+            "Brad Pitt"
+        ],
+        "genre": "Science Fiction",
+        "director": "Christopher Nolan",
+        "imdb_rating": 6.1,
+        "movie_length": "174 minutes",
+        "description": "ipsum consectetur Lorem elit amet"
+    },
+    {
+        "movie_name": "Fallen Heroes",
+        "actors": [
+            "Tom Hanks",
+            "Ryan Gosling",
+            "Mark Ruffalo"
+        ],
+        "genre": "Comedy",
+        "director": "Peter Jackson",
+        "imdb_rating": 6.9,
+        "movie_length": "171 minutes",
+        "description": "adipiscing amet Lorem consectetur sit"
+    },
+    {
+        "movie_name": "Whispers in the Dark",
+        "actors": [
+            "Robert Downey Jr.",
+            "Morgan Freeman",
+            "Chris Pratt"
+        ],
+        "genre": "Horror",
+        "director": "Ridley Scott",
+        "imdb_rating": 9.7,
+        "movie_length": "111 minutes",
+        "description": "consectetur Lorem elit sit amet"
+    },
+    {
+        "movie_name": "The Broken Crown",
+        "actors": [
+            "Brad Pitt",
+            "Ryan Gosling",
+            "Scarlett Johansson"
+        ],
+        "genre": "Action",
+        "director": "James Cameron",
+        "imdb_rating": 6.2,
+        "movie_length": "97 minutes",
+        "description": "Lorem sit elit dolor adipiscing"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Ryan Gosling",
+            "Gal Gadot",
+            "Denzel Washington"
+        ],
+        "genre": "Fantasy",
+        "director": "Tim Burton",
+        "imdb_rating": 6.7,
+        "movie_length": "170 minutes",
+        "description": "ipsum dolor elit sit adipiscing"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Chris Hemsworth"
+        ],
+        "genre": "Comedy",
+        "director": "Francis Ford Coppola",
+        "imdb_rating": 9.7,
+        "movie_length": "139 minutes",
+        "description": "elit sit dolor Lorem ipsum"
+    },
+    {
+        "movie_name": "The Lost Journey",
+        "actors": [
+            "Denzel Washington",
+            "Gal Gadot",
+            "Morgan Freeman"
+        ],
+        "genre": "Horror",
+        "director": "Christopher Nolan",
+        "imdb_rating": 8.7,
+        "movie_length": "169 minutes",
+        "description": "ipsum dolor Lorem sit adipiscing"
+    },
+    {
+        "movie_name": "Echoes of Time",
+        "actors": [
+            "Johnny Depp",
+            "Ryan Gosling",
+            "Keanu Reeves"
+        ],
+        "genre": "Horror",
+        "director": "Clint Eastwood",
+        "imdb_rating": 9.8,
+        "movie_length": "95 minutes",
+        "description": "sit ipsum amet elit Lorem"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Hugh Jackman",
+            "Denzel Washington",
+            "Natalie Portman"
+        ],
+        "genre": "Thriller",
+        "director": "Christopher Nolan",
+        "imdb_rating": 8.6,
+        "movie_length": "143 minutes",
+        "description": "sit adipiscing Lorem consectetur dolor"
+    },
+    {
+        "movie_name": "Silent Waters",
+        "actors": [
+            "Gal Gadot",
+            "Meryl Streep",
+            "Natalie Portman"
+        ],
+        "genre": "Drama",
+        "director": "Steven Spielberg",
+        "imdb_rating": 8.8,
+        "movie_length": "172 minutes",
+        "description": "ipsum amet consectetur adipiscing dolor"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Chris Hemsworth",
+            "Denzel Washington",
+            "Brad Pitt"
+        ],
+        "genre": "Thriller",
+        "director": "Steven Spielberg",
+        "imdb_rating": 6.8,
+        "movie_length": "115 minutes",
+        "description": "ipsum consectetur amet dolor Lorem"
+    },
+    {
+        "movie_name": "The Last Stand",
+        "actors": [
+            "Scarlett Johansson",
+            "Ryan Gosling",
+            "Will Smith"
+        ],
+        "genre": "Romance",
+        "director": "Wes Anderson",
+        "imdb_rating": 5.5,
+        "movie_length": "170 minutes",
+        "description": "Lorem elit sit ipsum dolor"
+    },
+    {
+        "movie_name": "Silent Waters",
+        "actors": [
+            "Keanu Reeves",
+            "Chris Hemsworth",
+            "Chris Pratt"
+        ],
+        "genre": "Comedy",
+        "director": "Peter Jackson",
+        "imdb_rating": 8.8,
+        "movie_length": "152 minutes",
+        "description": "adipiscing Lorem sit amet ipsum"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Gal Gadot",
+            "Chris Hemsworth",
+            "Denzel Washington"
+        ],
+        "genre": "Drama",
+        "director": "Wes Anderson",
+        "imdb_rating": 5.1,
+        "movie_length": "140 minutes",
+        "description": "ipsum Lorem elit adipiscing sit"
+    },
+    {
+        "movie_name": "The Lost Journey",
+        "actors": [
+            "Anne Hathaway",
+            "Keanu Reeves",
+            "Scarlett Johansson"
+        ],
+        "genre": "Comedy",
+        "director": "Francis Ford Coppola",
+        "imdb_rating": 7.4,
+        "movie_length": "125 minutes",
+        "description": "elit Lorem sit amet consectetur"
+    },
+    {
+        "movie_name": "Echoes of Time",
+        "actors": [
+            "Meryl Streep",
+            "Chris Hemsworth",
+            "Hugh Jackman"
+        ],
+        "genre": "Horror",
+        "director": "Martin Scorsese",
+        "imdb_rating": 9.7,
+        "movie_length": "145 minutes",
+        "description": "dolor Lorem amet consectetur sit"
+    },
+    {
+        "movie_name": "Whispers in the Dark",
+        "actors": [
+            "Gal Gadot",
+            "Chris Pratt",
+            "Morgan Freeman"
+        ],
+        "genre": "Drama",
+        "director": "Steven Spielberg",
+        "imdb_rating": 7.8,
+        "movie_length": "164 minutes",
+        "description": "amet consectetur sit adipiscing elit"
+    },
+    {
+        "movie_name": "The Lost Journey",
+        "actors": [
+            "Morgan Freeman",
+            "Anne Hathaway",
+            "Denzel Washington"
+        ],
+        "genre": "Horror",
+        "director": "David Fincher",
+        "imdb_rating": 7.9,
+        "movie_length": "128 minutes",
+        "description": "ipsum elit consectetur sit Lorem"
+    },
+    {
+        "movie_name": "Echoes of Time",
+        "actors": [
+            "Johnny Depp",
+            "Brad Pitt",
+            "Leonardo DiCaprio"
+        ],
+        "genre": "Science Fiction",
+        "director": "Ridley Scott",
+        "imdb_rating": 8.6,
+        "movie_length": "156 minutes",
+        "description": "sit Lorem adipiscing dolor consectetur"
+    },
+    {
+        "movie_name": "The Lost Journey",
+        "actors": [
+            "Morgan Freeman",
+            "Gal Gadot",
+            "Chris Pratt"
+        ],
+        "genre": "Comedy",
+        "director": "Francis Ford Coppola",
+        "imdb_rating": 8.0,
+        "movie_length": "150 minutes",
+        "description": "dolor amet ipsum adipiscing consectetur"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Gal Gadot",
+            "Chris Pratt",
+            "Johnny Depp"
+        ],
+        "genre": "Fantasy",
+        "director": "Ridley Scott",
+        "imdb_rating": 5.3,
+        "movie_length": "170 minutes",
+        "description": "elit adipiscing sit ipsum amet"
+    },
+    {
+        "movie_name": "The Broken Crown",
+        "actors": [
+            "Meryl Streep",
+            "Scarlett Johansson",
+            "Anne Hathaway"
+        ],
+        "genre": "Drama",
+        "director": "David Fincher",
+        "imdb_rating": 8.6,
+        "movie_length": "121 minutes",
+        "description": "Lorem ipsum dolor adipiscing elit"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Keanu Reeves",
+            "Emma Stone",
+            "Leonardo DiCaprio"
+        ],
+        "genre": "Comedy",
+        "director": "David Fincher",
+        "imdb_rating": 7.1,
+        "movie_length": "157 minutes",
+        "description": "amet dolor elit sit consectetur"
+    },
+    {
+        "movie_name": "Chasing Destiny",
+        "actors": [
+            "Hugh Jackman",
+            "Jennifer Lawrence",
+            "Chris Hemsworth"
+        ],
+        "genre": "Science Fiction",
+        "director": "Peter Jackson",
+        "imdb_rating": 5.9,
+        "movie_length": "172 minutes",
+        "description": "Lorem ipsum adipiscing sit dolor"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Chris Pratt",
+            "Ryan Gosling",
+            "Meryl Streep"
+        ],
+        "genre": "Action",
+        "director": "Quentin Tarantino",
+        "imdb_rating": 5.9,
+        "movie_length": "119 minutes",
+        "description": "ipsum consectetur amet dolor sit"
+    },
+    {
+        "movie_name": "The Crimson Tide",
+        "actors": [
+            "Scarlett Johansson",
+            "Leonardo DiCaprio",
+            "Brad Pitt"
+        ],
+        "genre": "Horror",
+        "director": "Christopher Nolan",
+        "imdb_rating": 8.7,
+        "movie_length": "169 minutes",
+        "description": "consectetur adipiscing sit Lorem dolor"
+    },
+    {
+        "movie_name": "Edge of Reality",
+        "actors": [
+            "Hugh Jackman",
+            "Brad Pitt",
+            "Tom Hanks"
+        ],
+        "genre": "Fantasy",
+        "director": "Alfred Hitchcock",
+        "imdb_rating": 9.0,
+        "movie_length": "104 minutes",
+        "description": "Lorem amet consectetur adipiscing dolor"
+    },
+    {
+        "movie_name": "The Lost Journey",
+        "actors": [
+            "Johnny Depp",
+            "Denzel Washington",
+            "Leonardo DiCaprio"
+        ],
+        "genre": "Drama",
+        "director": "Ridley Scott",
+        "imdb_rating": 5.6,
+        "movie_length": "116 minutes",
+        "description": "sit elit dolor ipsum amet"
+    },
+    {
+        "movie_name": "Silent Waters",
+        "actors": [
+            "Denzel Washington",
+            "Robert Downey Jr.",
+            "Morgan Freeman"
+        ],
+        "genre": "Science Fiction",
+        "director": "Clint Eastwood",
+        "imdb_rating": 6.5,
+        "movie_length": "122 minutes",
+        "description": "dolor amet sit elit Lorem"
+    },
+    {
+        "movie_name": "A New Dawn",
+        "actors": [
+            "Mark Ruffalo",
+            "Brad Pitt",
+            "Emma Stone"
+        ],
+        "genre": "Science Fiction",
+        "director": "Wes Anderson",
+        "imdb_rating": 6.7,
+        "movie_length": "138 minutes",
+        "description": "adipiscing sit consectetur dolor Lorem"
+    },
+    {
+        "movie_name": "A New Dawn",
+        "actors": [
+            "Brad Pitt",
+            "Robert Downey Jr.",
+            "Keanu Reeves"
+        ],
+        "genre": "Fantasy",
+        "director": "Christopher Nolan",
+        "imdb_rating": 8.4,
+        "movie_length": "94 minutes",
+        "description": "ipsum sit elit dolor adipiscing"
+    },
+    {
+        "movie_name": "Beyond the Horizon",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Gal Gadot",
+            "Chris Hemsworth"
+        ],
+        "genre": "Science Fiction",
+        "director": "Steven Spielberg",
+        "imdb_rating": 7.8,
+        "movie_length": "102 minutes",
+        "description": "amet adipiscing sit Lorem ipsum"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Robert Downey Jr.",
+            "Chris Pratt"
+        ],
+        "genre": "Fantasy",
+        "director": "Christopher Nolan",
+        "imdb_rating": 7.5,
+        "movie_length": "114 minutes",
+        "description": "dolor Lorem adipiscing consectetur sit"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Meryl Streep",
+            "Keanu Reeves",
+            "Chris Hemsworth"
+        ],
+        "genre": "Action",
+        "director": "Denis Villeneuve",
+        "imdb_rating": 6.1,
+        "movie_length": "111 minutes",
+        "description": "elit consectetur sit amet adipiscing"
+    },
+    {
+        "movie_name": "Fallen Heroes",
+        "actors": [
+            "Tom Hanks",
+            "Brad Pitt",
+            "Keanu Reeves"
+        ],
+        "genre": "Drama",
+        "director": "Martin Scorsese",
+        "imdb_rating": 9.1,
+        "movie_length": "104 minutes",
+        "description": "amet Lorem elit dolor consectetur"
+    },
+    {
+        "movie_name": "The Crimson Tide",
+        "actors": [
+            "Hugh Jackman",
+            "Emma Stone",
+            "Natalie Portman"
+        ],
+        "genre": "Horror",
+        "director": "Francis Ford Coppola",
+        "imdb_rating": 7.6,
+        "movie_length": "124 minutes",
+        "description": "adipiscing sit amet Lorem ipsum"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Tom Hanks",
+            "Robert Downey Jr.",
+            "Emma Stone"
+        ],
+        "genre": "Romance",
+        "director": "Peter Jackson",
+        "imdb_rating": 9.0,
+        "movie_length": "133 minutes",
+        "description": "ipsum sit Lorem amet consectetur"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Anne Hathaway",
+            "Keanu Reeves",
+            "Robert Downey Jr."
+        ],
+        "genre": "Science Fiction",
+        "director": "James Cameron",
+        "imdb_rating": 7.2,
+        "movie_length": "172 minutes",
+        "description": "elit Lorem dolor consectetur amet"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Chris Hemsworth",
+            "Anne Hathaway",
+            "Robert Downey Jr."
+        ],
+        "genre": "Romance",
+        "director": "Francis Ford Coppola",
+        "imdb_rating": 7.4,
+        "movie_length": "172 minutes",
+        "description": "amet elit dolor sit Lorem"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Gal Gadot",
+            "Natalie Portman",
+            "Leonardo DiCaprio"
+        ],
+        "genre": "Comedy",
+        "director": "Christopher Nolan",
+        "imdb_rating": 8.9,
+        "movie_length": "157 minutes",
+        "description": "sit adipiscing dolor consectetur amet"
+    },
+    {
+        "movie_name": "The Hidden Path",
+        "actors": [
+            "Ryan Gosling",
+            "Leonardo DiCaprio",
+            "Natalie Portman"
+        ],
+        "genre": "Drama",
+        "director": "Christopher Nolan",
+        "imdb_rating": 6.8,
+        "movie_length": "165 minutes",
+        "description": "ipsum sit elit consectetur adipiscing"
+    },
+    {
+        "movie_name": "The Broken Crown",
+        "actors": [
+            "Scarlett Johansson",
+            "Mark Ruffalo",
+            "Denzel Washington"
+        ],
+        "genre": "Horror",
+        "director": "Tim Burton",
+        "imdb_rating": 9.7,
+        "movie_length": "172 minutes",
+        "description": "consectetur ipsum Lorem elit sit"
+    },
+    {
+        "movie_name": "The Lost Journey",
+        "actors": [
+            "Ryan Gosling",
+            "Keanu Reeves",
+            "Robert Downey Jr."
+        ],
+        "genre": "Thriller",
+        "director": "Wes Anderson",
+        "imdb_rating": 6.7,
+        "movie_length": "153 minutes",
+        "description": "Lorem sit consectetur elit ipsum"
+    },
+    {
+        "movie_name": "Silent Waters",
+        "actors": [
+            "Jennifer Lawrence",
+            "Gal Gadot",
+            "Brad Pitt"
+        ],
+        "genre": "Science Fiction",
+        "director": "David Fincher",
+        "imdb_rating": 7.5,
+        "movie_length": "145 minutes",
+        "description": "consectetur elit Lorem sit amet"
+    },
+    {
+        "movie_name": "Echoes of Time",
+        "actors": [
+            "Emma Stone",
+            "Leonardo DiCaprio",
+            "Mark Ruffalo"
+        ],
+        "genre": "Thriller",
+        "director": "Clint Eastwood",
+        "imdb_rating": 8.4,
+        "movie_length": "112 minutes",
+        "description": "ipsum Lorem dolor amet sit"
+    },
+    {
+        "movie_name": "Ghosts of the Past",
+        "actors": [
+            "Scarlett Johansson",
+            "Keanu Reeves",
+            "Mark Ruffalo"
+        ],
+        "genre": "Science Fiction",
+        "director": "Christopher Nolan",
+        "imdb_rating": 9.0,
+        "movie_length": "96 minutes",
+        "description": "dolor consectetur sit Lorem adipiscing"
+    },
+    {
+        "movie_name": "The Hidden Path",
+        "actors": [
+            "Chris Hemsworth",
+            "Gal Gadot",
+            "Meryl Streep"
+        ],
+        "genre": "Comedy",
+        "director": "Ridley Scott",
+        "imdb_rating": 9.0,
+        "movie_length": "147 minutes",
+        "description": "consectetur elit amet Lorem sit"
+    },
+    {
+        "movie_name": "Beneath the Stars",
+        "actors": [
+            "Chris Hemsworth",
+            "Emma Stone",
+            "Mark Ruffalo"
+        ],
+        "genre": "Comedy",
+        "director": "Peter Jackson",
+        "imdb_rating": 8.1,
+        "movie_length": "174 minutes",
+        "description": "amet dolor elit consectetur adipiscing"
+    },
+    {
+        "movie_name": "Beyond the Horizon",
+        "actors": [
+            "Chris Hemsworth",
+            "Scarlett Johansson",
+            "Natalie Portman"
+        ],
+        "genre": "Science Fiction",
+        "director": "Ridley Scott",
+        "imdb_rating": 7.7,
+        "movie_length": "140 minutes",
+        "description": "dolor sit adipiscing Lorem consectetur"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Brad Pitt",
+            "Chris Pratt",
+            "Ryan Gosling"
+        ],
+        "genre": "Action",
+        "director": "Tim Burton",
+        "imdb_rating": 6.8,
+        "movie_length": "123 minutes",
+        "description": "adipiscing Lorem ipsum dolor amet"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Will Smith",
+            "Brad Pitt",
+            "Anne Hathaway"
+        ],
+        "genre": "Horror",
+        "director": "James Cameron",
+        "imdb_rating": 7.8,
+        "movie_length": "100 minutes",
+        "description": "dolor adipiscing Lorem consectetur elit"
+    },
+    {
+        "movie_name": "Fallen Heroes",
+        "actors": [
+            "Brad Pitt",
+            "Emma Stone",
+            "Anne Hathaway"
+        ],
+        "genre": "Fantasy",
+        "director": "Francis Ford Coppola",
+        "imdb_rating": 7.4,
+        "movie_length": "120 minutes",
+        "description": "consectetur adipiscing elit Lorem amet"
+    },
+    {
+        "movie_name": "Chasing Destiny",
+        "actors": [
+            "Anne Hathaway",
+            "Denzel Washington",
+            "Leonardo DiCaprio"
+        ],
+        "genre": "Action",
+        "director": "David Fincher",
+        "imdb_rating": 7.9,
+        "movie_length": "120 minutes",
+        "description": "consectetur dolor ipsum amet Lorem"
+    },
+    {
+        "movie_name": "Ghosts of the Past",
+        "actors": [
+            "Chris Pratt",
+            "Hugh Jackman",
+            "Morgan Freeman"
+        ],
+        "genre": "Action",
+        "director": "Ridley Scott",
+        "imdb_rating": 5.1,
+        "movie_length": "162 minutes",
+        "description": "sit Lorem ipsum dolor amet"
+    },
+    {
+        "movie_name": "Chasing Destiny",
+        "actors": [
+            "Brad Pitt",
+            "Johnny Depp",
+            "Scarlett Johansson"
+        ],
+        "genre": "Science Fiction",
+        "director": "Tim Burton",
+        "imdb_rating": 6.2,
+        "movie_length": "93 minutes",
+        "description": "amet sit adipiscing Lorem dolor"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Tom Hanks",
+            "Johnny Depp",
+            "Morgan Freeman"
+        ],
+        "genre": "Science Fiction",
+        "director": "David Fincher",
+        "imdb_rating": 8.7,
+        "movie_length": "121 minutes",
+        "description": "consectetur sit adipiscing dolor amet"
+    },
+    {
+        "movie_name": "Fallen Heroes",
+        "actors": [
+            "Chris Pratt",
+            "Mark Ruffalo",
+            "Brad Pitt"
+        ],
+        "genre": "Horror",
+        "director": "Alfred Hitchcock",
+        "imdb_rating": 5.5,
+        "movie_length": "142 minutes",
+        "description": "elit sit consectetur amet Lorem"
+    },
+    {
+        "movie_name": "Beneath the Stars",
+        "actors": [
+            "Mark Ruffalo",
+            "Meryl Streep",
+            "Will Smith"
+        ],
+        "genre": "Horror",
+        "director": "James Cameron",
+        "imdb_rating": 5.5,
+        "movie_length": "95 minutes",
+        "description": "Lorem elit dolor consectetur adipiscing"
+    },
+    {
+        "movie_name": "The Crimson Tide",
+        "actors": [
+            "Chris Pratt",
+            "Ryan Gosling",
+            "Keanu Reeves"
+        ],
+        "genre": "Fantasy",
+        "director": "Steven Spielberg",
+        "imdb_rating": 8.3,
+        "movie_length": "147 minutes",
+        "description": "elit adipiscing amet dolor Lorem"
+    },
+    {
+        "movie_name": "Whispers in the Dark",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Gal Gadot",
+            "Meryl Streep"
+        ],
+        "genre": "Science Fiction",
+        "director": "Francis Ford Coppola",
+        "imdb_rating": 7.3,
+        "movie_length": "175 minutes",
+        "description": "elit ipsum adipiscing amet dolor"
+    },
+    {
+        "movie_name": "The Crimson Tide",
+        "actors": [
+            "Scarlett Johansson",
+            "Keanu Reeves",
+            "Anne Hathaway"
+        ],
+        "genre": "Thriller",
+        "director": "Christopher Nolan",
+        "imdb_rating": 5.9,
+        "movie_length": "129 minutes",
+        "description": "Lorem dolor ipsum adipiscing sit"
+    },
+    {
+        "movie_name": "The Last Stand",
+        "actors": [
+            "Gal Gadot",
+            "Morgan Freeman",
+            "Will Smith"
+        ],
+        "genre": "Science Fiction",
+        "director": "Quentin Tarantino",
+        "imdb_rating": 7.8,
+        "movie_length": "113 minutes",
+        "description": "amet dolor Lorem consectetur adipiscing"
+    },
+    {
+        "movie_name": "Echoes of War",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Natalie Portman",
+            "Keanu Reeves"
+        ],
+        "genre": "Science Fiction",
+        "director": "Clint Eastwood",
+        "imdb_rating": 7.4,
+        "movie_length": "162 minutes",
+        "description": "amet elit ipsum Lorem sit"
+    },
+    {
+        "movie_name": "Silent Waters",
+        "actors": [
+            "Will Smith",
+            "Jennifer Lawrence",
+            "Morgan Freeman"
+        ],
+        "genre": "Thriller",
+        "director": "Alfred Hitchcock",
+        "imdb_rating": 6.0,
+        "movie_length": "172 minutes",
+        "description": "dolor consectetur sit amet Lorem"
+    },
+    {
+        "movie_name": "Chasing Destiny",
+        "actors": [
+            "Johnny Depp",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "imdb_rating": 6.5,
+        "movie_length": "158 minutes",
+        "description": "amet sit ipsum elit dolor"
+    },
+    {
+        "movie_name": "Fallen Heroes",
+        "actors": [
+            "Keanu Reeves",
+            "Anne Hathaway",
+            "Johnny Depp"
+        ],
+        "genre": "Romance",
+        "director": "Peter Jackson",
+        "imdb_rating": 6.2,
+        "movie_length": "90 minutes",
+        "description": "elit adipiscing sit amet Lorem"
+    },
+    {
+        "movie_name": "Forgotten Memories",
+        "actors": [
+            "Keanu Reeves",
+            "Ryan Gosling",
+            "Chris Hemsworth"
+        ],
+        "genre": "Comedy",
+        "director": "Quentin Tarantino",
+        "imdb_rating": 8.8,
+        "movie_length": "123 minutes",
+        "description": "Lorem amet dolor sit elit"
+    },
+    {
+        "movie_name": "Silent Waters",
+        "actors": [
+            "Hugh Jackman",
+            "Meryl Streep",
+            "Brad Pitt"
+        ],
+        "genre": "Thriller",
+        "director": "Steven Spielberg",
+        "imdb_rating": 5.8,
+        "movie_length": "95 minutes",
+        "description": "amet adipiscing Lorem ipsum sit"
+    },
+    {
+        "movie_name": "A New Dawn",
+        "actors": [
+            "Brad Pitt",
+            "Gal Gadot",
+            "Johnny Depp"
+        ],
+        "genre": "Horror",
+        "director": "Denis Villeneuve",
+        "imdb_rating": 5.3,
+        "movie_length": "98 minutes",
+        "description": "ipsum amet Lorem dolor sit"
+    },
+    {
+        "movie_name": "The Broken Crown",
+        "actors": [
+            "Will Smith",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "genre": "Romance",
+        "director": "Wes Anderson",
+        "imdb_rating": 8.5,
+        "movie_length": "101 minutes",
+        "description": "ipsum consectetur dolor adipiscing elit"
+    },
+    {
+        "movie_name": "The Broken Crown",
+        "actors": [
+            "Tom Hanks",
+            "Hugh Jackman",
+            "Jennifer Lawrence"
+        ],
+        "genre": "Thriller",
+        "director": "Christopher Nolan",
+        "imdb_rating": 5.4,
+        "movie_length": "179 minutes",
+        "description": "elit dolor Lorem adipiscing consectetur"
+    },
+    {
+        "movie_name": "Chasing Destiny",
+        "actors": [
+            "Denzel Washington",
+            "Scarlett Johansson",
+            "Mark Ruffalo"
+        ],
+        "genre": "Comedy",
+        "director": "Christopher Nolan",
+        "imdb_rating": 8.9,
+        "movie_length": "139 minutes",
+        "description": "consectetur ipsum elit Lorem adipiscing"
+    },
+    {
+        "movie_name": "The Last Stand",
+        "actors": [
+            "Denzel Washington",
+            "Will Smith",
+            "Anne Hathaway"
+        ],
+        "genre": "Comedy",
+        "director": "Ridley Scott",
+        "imdb_rating": 5.1,
+        "movie_length": "161 minutes",
+        "description": "dolor amet ipsum adipiscing elit"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Robert Downey Jr.",
+            "Denzel Washington",
+            "Keanu Reeves"
+        ],
+        "genre": "Romance",
+        "director": "David Fincher",
+        "imdb_rating": 9.8,
+        "movie_length": "96 minutes",
+        "description": "Lorem adipiscing sit amet elit"
+    },
+    {
+        "movie_name": "The Lost Journey",
+        "actors": [
+            "Jennifer Lawrence",
+            "Emma Stone",
+            "Morgan Freeman"
+        ],
+        "genre": "Comedy",
+        "director": "Denis Villeneuve",
+        "imdb_rating": 6.6,
+        "movie_length": "135 minutes",
+        "description": "Lorem elit sit adipiscing ipsum"
+    },
+    {
+        "movie_name": "Beyond the Horizon",
+        "actors": [
+            "Hugh Jackman",
+            "Anne Hathaway",
+            "Chris Pratt"
+        ],
+        "genre": "Horror",
+        "director": "Christopher Nolan",
+        "imdb_rating": 5.5,
+        "movie_length": "175 minutes",
+        "description": "sit adipiscing ipsum consectetur dolor"
+    },
+    {
+        "movie_name": "Beneath the Stars",
+        "actors": [
+            "Chris Hemsworth",
+            "Keanu Reeves",
+            "Scarlett Johansson"
+        ],
+        "genre": "Fantasy",
+        "director": "Steven Spielberg",
+        "imdb_rating": 9.0,
+        "movie_length": "147 minutes",
+        "description": "dolor ipsum Lorem consectetur adipiscing"
+    },
+    {
+        "movie_name": "Echoes of War",
+        "actors": [
+            "Tom Hanks",
+            "Jennifer Lawrence",
+            "Ryan Gosling"
+        ],
+        "genre": "Romance",
+        "director": "Martin Scorsese",
+        "imdb_rating": 6.7,
+        "movie_length": "95 minutes",
+        "description": "dolor sit consectetur elit Lorem"
+    },
+    {
+        "movie_name": "Echoes of Time",
+        "actors": [
+            "Brad Pitt",
+            "Leonardo DiCaprio",
+            "Will Smith"
+        ],
+        "genre": "Thriller",
+        "director": "Clint Eastwood",
+        "imdb_rating": 5.6,
+        "movie_length": "136 minutes",
+        "description": "sit dolor ipsum elit Lorem"
+    },
+    {
+        "movie_name": "Beyond the Horizon",
+        "actors": [
+            "Emma Stone",
+            "Brad Pitt",
+            "Mark Ruffalo"
+        ],
+        "genre": "Horror",
+        "director": "David Fincher",
+        "imdb_rating": 9.8,
+        "movie_length": "134 minutes",
+        "description": "consectetur sit adipiscing Lorem elit"
+    },
+    {
+        "movie_name": "The Silver Lining",
+        "actors": [
+            "Natalie Portman",
+            "Chris Pratt",
+            "Scarlett Johansson"
+        ],
+        "genre": "Action",
+        "director": "Clint Eastwood",
+        "imdb_rating": 5.6,
+        "movie_length": "150 minutes",
+        "description": "Lorem adipiscing amet ipsum consectetur"
+    },
+    {
+        "movie_name": "Echoes of Time",
+        "actors": [
+            "Will Smith",
+            "Morgan Freeman",
+            "Meryl Streep"
+        ],
+        "genre": "Drama",
+        "director": "James Cameron",
+        "imdb_rating": 7.2,
+        "movie_length": "175 minutes",
+        "description": "Lorem ipsum adipiscing dolor consectetur"
+    },
+    {
+        "movie_name": "Chasing Destiny",
+        "actors": [
+            "Gal Gadot",
+            "Johnny Depp",
+            "Jennifer Lawrence"
+        ],
+        "genre": "Romance",
+        "director": "David Fincher",
+        "imdb_rating": 9.9,
+        "movie_length": "172 minutes",
+        "description": "dolor elit consectetur amet Lorem"
+    },
+    {
+        "movie_name": "Edge of Reality",
+        "actors": [
+            "Meryl Streep",
+            "Tom Hanks",
+            "Morgan Freeman"
+        ],
+        "genre": "Action",
+        "director": "Clint Eastwood",
+        "imdb_rating": 6.5,
+        "movie_length": "92 minutes",
+        "description": "dolor Lorem amet ipsum sit"
+    },
+    {
+        "movie_name": "Echoes of War",
+        "actors": [
+            "Hugh Jackman",
+            "Morgan Freeman",
+            "Chris Hemsworth"
+        ],
+        "genre": "Thriller",
+        "director": "Peter Jackson",
+        "imdb_rating": 5.1,
+        "movie_length": "104 minutes",
+        "description": "elit amet Lorem consectetur sit"
+    },
+    {
+        "movie_name": "Beyond the Horizon",
+        "actors": [
+            "Meryl Streep",
+            "Mark Ruffalo",
+            "Scarlett Johansson"
+        ],
+        "genre": "Drama",
+        "director": "Christopher Nolan",
+        "imdb_rating": 5.6,
+        "movie_length": "162 minutes",
+        "description": "sit consectetur elit ipsum adipiscing"
+    },
+    {
+        "movie_name": "Shadows of Fate",
+        "actors": [
+            "Hugh Jackman",
+            "Jennifer Lawrence",
+            "Gal Gadot"
+        ],
+        "genre": "Science Fiction",
+        "director": "Martin Scorsese",
+        "imdb_rating": 6.4,
+        "movie_length": "171 minutes",
+        "description": "amet adipiscing consectetur ipsum Lorem"
+    },
+    {
+        "movie_name": "The Final Hour",
+        "actors": [
+            "Ryan Gosling",
+            "Natalie Portman",
+            "Anne Hathaway"
+        ],
+        "genre": "Comedy",
+        "director": "Steven Spielberg",
+        "imdb_rating": 9.0,
+        "movie_length": "138 minutes",
+        "description": "ipsum adipiscing amet sit dolor"
+    }
+]
